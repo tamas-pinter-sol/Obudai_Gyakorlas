@@ -6,7 +6,13 @@ Harmadik módosítás!
 
 Változás!
 
+<<<<<<< Updated upstream
 
 
 Kormos Benedek
 Pintér Tamás
+=======
+Kormos Benedek
+
+Leipold Péter
+>>>>>>> Stashed changes
